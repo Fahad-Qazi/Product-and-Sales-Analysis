@@ -14,12 +14,12 @@ This Sales Analysis Dashboard, built using Power BI, provides an in-depth analys
   - Total Sales & Total Profit – Key financial metrics to measure business success.
 
 ## 🔹 Data Visualizations
-  📌 Bar Chart – Displays the top 5 most selling products, helping identify high-demand items.
-  📌 Column Chart – Represents the quantity ordered in each year (2003, 2004, 2005), providing a clear view of sales volume trends.
-  📌 Pie Chart – Visualizes the sales distribution across product categories, enabling category-wise performance assessment.
-  📌 Map Visualization – Showcases the customer distribution worldwide, giving a geographic perspective on sales reach.
-  📌 Line Chart – Tracks sales trends over the years, with drill-down capabilities into months, quarters, and days for granular analysis.
-  📌 Treemap – Represents sales by country, making it easy to compare regional performance.
+  - Bar Chart – Displays the top 5 most selling products, helping identify high-demand items.
+  - Column Chart – Represents the quantity ordered in each year (2003, 2004, 2005), providing a clear view of sales volume trends.
+  - Pie Chart – Visualizes the sales distribution across product categories, enabling category-wise performance assessment.
+  - Map Visualization – Showcases the customer distribution worldwide, giving a geographic perspective on sales reach.
+  - Line Chart – Tracks sales trends over the years, with drill-down capabilities into months, quarters, and days for granular analysis.
+  - Treemap – Represents sales by country, making it easy to compare regional performance.
 
 ## 🔹 Technical Stack
   - Power BI – Data modeling, DAX calculations, and interactive visualizations.
