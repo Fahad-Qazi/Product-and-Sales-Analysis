@@ -2,7 +2,7 @@
 ## 🔹 Project Overview
 This Sales Analysis Dashboard, built using Power BI, provides an in-depth analysis of sales data across multiple years, enabling businesses to gain valuable insights into performance trends, product demand, and regional distribution. The dashboard is interactive and user-friendly, allowing for dynamic filtering and drill-down capabilities.
 
-##🔹 Key Features & Functionalities
+## 🔹 Key Features & Functionalities
 
 ### ✅ Filters for Custom Analysis:
   - Product Category – View sales performance for specific product categories.
